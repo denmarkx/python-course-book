@@ -1,0 +1,10 @@
+[book]
+title = "Programming Fundamentals II (Python)"
+language = "en"
+
+[output.html]
+mathjax-support = true
+
+[output.html.fold]
+enable = true
+level = 0
