@@ -1,8 +1,5 @@
 # Preface
-This "textbook" is based on materials from the course textbook on vLab Academy and the powerpoints from PF-I and PF-II. It is meant to serve as a complementary reference alongside the primary materials.
-
-### Programming Fundamentals I
-If you are coming from the Python section (or were allowed to skip PFI depending on transfer or other circumstances), I recommend you spend some extra time on the "Introduction" chapter.
+This is a lightweight introduction to Python and contains most topics covered in the first three weeks of the PF2 course.
 
 ### Running Code
 

@@ -26,3 +26,5 @@
 		- [Nested Functions](intro/functions_nested.md)
 	- [Scope and Globals](intro/scope_and_globals.md)
 		- [The nonlocal Keyword](intro/scope_and_globals_nonlocal.md)
+- [Appendix](appendix/additional_topics.md)
+    - [Generators](appendix/generators.md)
